@@ -1,5 +1,6 @@
 package projects;
 
+//Recursive implementations of formulas for 2 x n, 3 x n, and 4 x n urinal problems, with "spaces" = 1 (nobody can occupy a space that is adjacent to an occupied space diagonally, horizontally, or vertically in the m x n grid)
 public class TwoDimensionalUrinalProblem {
 	public static int TwoBy(int length) {
 		if(length==0) return 1;
