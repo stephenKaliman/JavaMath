@@ -1,5 +1,5 @@
 package projects;
-
+//explicit (exp) and recursive (rec) implementations of formulas to compute how many ways a "people" people can occupy a row of "length" spots (urinals) with at least "spaces" spots between any two people
 public class OneDUrinalProblem {
 	
 	public static int oneDimensionalExp(int length, int spaces,int people) {
