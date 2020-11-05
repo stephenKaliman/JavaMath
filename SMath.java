@@ -1,5 +1,5 @@
 package projects;
-
+//just some generic math formulas and stuff, implemented in java
 public class SMath {
 	public static int factorial(int num) {
 		if(num<0){return 0;}
